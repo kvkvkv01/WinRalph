@@ -1,0 +1,37 @@
+# Ralph state files
+.circuit_breaker_state
+.circuit_breaker_history
+.exit_signals
+.call_count
+.last_reset
+.response_analysis
+.claude_session_id
+.ralph_session
+.ralph_session_history
+.last_output_length
+status.json
+progress.json
+
+# Logs
+logs/*.log
+
+# Generated docs
+docs/generated/*
+!docs/generated/.gitkeep
+
+# Temporary files
+*.tmp
+*.temp
+.ralph_conversion_*
+
+# IDE
+.vscode/
+.idea/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# PowerShell
+*.psm1.bak
+*.ps1.bak
