@@ -25,7 +25,7 @@ WinRalph is a complete PowerShell port of [Ralph for Claude Code](https://github
 
 ```powershell
 # Clone the repository
-git clone https://github.com/YOUR_USERNAME/WinRalph.git
+git clone https://github.com/kvkvkv01/WinRalph.git
 cd WinRalph
 
 # Install globally
@@ -243,7 +243,7 @@ Contributions welcome! This is a community port of the original Ralph project.
 
 ```powershell
 # Clone and test
-git clone https://github.com/YOUR_USERNAME/WinRalph.git
+git clone https://github.com/kvkvkv01/WinRalph.git
 cd WinRalph
 
 # Run tests
